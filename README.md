@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkantonio&label=Profile%20views&color=0e75b6&style=flat" alt="mkantonio" /> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS**, **Angular**
 
 - 💬 Ask me about **Laravel, Django**
 
